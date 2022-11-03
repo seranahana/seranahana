@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET applications development
 - 🌱 I’m currently learning Javascript to become full-stack developer
 - 💞️ I’m currently looking for a job
-- 📫 How to reach me - Telegram: @seranahana, Twitter: @FollowSerana
+- 📫 How to reach me - Telegram: @seranahana
 
 <!---
 seranahana/seranahana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
