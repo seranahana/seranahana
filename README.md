@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seranahana, and my real name is Dmitry Dovgal
-- 👀 I’m interested in .NET application development
+- 👀 I’m interested in .NET applications development
 - 🌱 I’m currently learning Javascript to become full-stack developer
 - 💞️ I’m currently looking for a job
 - 📫 How to reach me - Telegram: @seranahana, Twitter: @FollowSerana
